@@ -1,0 +1,13 @@
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Design Patterns com .NET\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Infra.deps.json
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Design Patterns com .NET\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Infra.dll
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Design Patterns com .NET\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Infra.pdb
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Design Patterns com .NET\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Domain.dll
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Design Patterns com .NET\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Domain.pdb
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Design Patterns com .NET\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.csproj.AssemblyReference.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Design Patterns com .NET\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Design Patterns com .NET\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.AssemblyInfoInputs.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Design Patterns com .NET\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.AssemblyInfo.cs
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Design Patterns com .NET\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.csproj.CoreCompileInputs.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Design Patterns com .NET\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.csproj.CopyComplete
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Design Patterns com .NET\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.dll
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Design Patterns com .NET\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.pdb
